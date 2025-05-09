@@ -1,0 +1,29 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Введение}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Теоретическая часть}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Постановки задачи}{3}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Предмет исследования}{3}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Методика исследования}{3}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Цель исследования}{3}{subsubsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.3}Технологии}{3}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Стандартные библиотеки}{3}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}Авторские функции}{4}{subsubsection.1.3.2}%
+\contentsline {section}{\numberline {2}Генератор синтетических данных}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Константы и параметры генерации}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Случайный шум}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Аномальные отклонения и их позиции}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Внедрение аномалий}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Примеры}{6}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Алгоритм}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Установка стартовых значений цикла и генерация данных}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Вычисление отклонений}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Агрегация промежуточных результатов}{7}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Сортировка отклонений}{8}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Поиск локтевой точки}{8}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Процент обнаруженных аномалий}{8}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Внутренний цикл по процентам заданных аномалий}{9}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Внешний цикл по выраженности заданных аномалий}{9}{subsection.3.8}%
+\contentsline {section}{\numberline {4}Эксперименты}{9}{section.4}%
+\contentsline {section}{\numberline {5}Калибровочные границы}{11}{section.5}%
+\contentsline {section}{\numberline {6}Выводы и рекомендации}{12}{section.6}%
+\contentsline {section}{\numberline {7}Литература}{13}{section.7}%
